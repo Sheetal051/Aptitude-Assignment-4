@@ -1,0 +1,29 @@
+Q: 49 pumps can empty a tank in 10 days, working 10 hours a day. if 70 pumps are used for 7 hours each day then in how many days the tank can be emptied?
+Ans:
+Let's break down the problem step by step:
+
+Original situation:
+
+49 pumps can empty the tank in 10 days
+Working 10 hours a day, so total hours worked = 10 days × 10 hours/day = 100 hours
+Total work done by 49 pumps in 100 hours = 1 tank
+
+Work done by 1 pump in 1 hour:
+
+Total work done by 49 pumps in 100 hours = 1 tank
+Work done by 1 pump in 100 hours = 1 tank / 49 pumps = 1/49 tank
+Work done by 1 pump in 1 hour = (1/49 tank) / 100 hours = 1/4900 tank/hour
+
+New situation:
+
+70 pumps are used
+Working 7 hours a day
+Total hours worked per day = 7 hours
+Total work done by 70 pumps in 1 day = 70 pumps × (1/4900 tank/hour) × 7 hours = 70/700 tank/day = 1/10 tank/day
+
+Days required to empty the tank:
+
+Total work done by 70 pumps in 1 day = 1/10 tank/day
+Days required to empty the tank = 1 tank / (1/10 tank/day) = 10 days
+
+So, the tank can be emptied in 10 days
