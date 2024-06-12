@@ -1,0 +1,15 @@
+Q: A leak in the bottom of a tank can empty the full tank in 6 hours. An inlet pipe fills water at the rate of 4 litres per minute. When the tank is full, the inlet is opened, and due to the leak, the tank is empty in 8 hours. Find the capacity of the tank.
+Ans:
+Let's break this problem down step by step:
+
+The leak can empty the full tank in 6 hours, so the rate of leakage is the capacity of the tank divided by 6 hours.
+The inlet pipe fills water at the rate of 4 litres per minute. Since there are 60 minutes in an hour, the rate of filling is 4 litres/minute × 60 = 240 litres/hour.
+When the tank is full, the inlet is opened, and due to the leak, the tank is empty in 8 hours. This means that the net rate of filling (inlet rate - leakage rate) is equal to the capacity of the tank divided by 8 hours.
+Let the capacity of the tank be x litres. Then, the rate of leakage is x/6 litres/hour.
+The net rate of filling is the inlet rate minus the leakage rate: 240 litres/hour - x/6 litres/hour.
+Since the tank is empty in 8 hours, the net rate of filling is equal to the capacity of the tank divided by 8 hours: (240 - x/6) litres/hour = x/8 litres/hour.
+Simplify the equation: 240 - x/6 = x/8.
+Multiply both sides by 24 (the least common multiple of 6 and 8) to eliminate the fractions: 5760 - 4x = 3x.
+Add 4x to both sides: 5760 = 7x.
+Divide both sides by 7: x = 5760/7 = 822.86 litres (approximately).
+So, the capacity of the tank is approximately 822.86 litres.
