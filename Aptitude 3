@@ -1,0 +1,12 @@
+Q: In an examination 80% candidates passed in English and 85% candidates passed in Mathematics. If 73% of candidates passed in both these subjects, what percent of candidates failed in both the subjects?
+Ans:
+Let's break down the problem step by step:
+
+Let's consider the total number of candidates as 100%.
+We know that 80% of candidates passed in English, 85% passed in Mathematics, and 73% passed in both subjects.
+Let's find the number of candidates who passed in English only: 80% - 73% = 7%
+Let's find the number of candidates who passed in Mathematics only: 85% - 73% = 12%
+Now, let's add up the number of candidates who passed in English, Mathematics, or both: 73% + 7% + 12% = 92%
+This means that 100% - 92% = 8% of candidates failed in both subjects.
+
+So, the answer is 8% of candidates failed in both subjects.
