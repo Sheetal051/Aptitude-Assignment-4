@@ -1,0 +1,14 @@
+Q: Of the 1000 inhabitants in a town, 60% are males, 20% are literate. If 25% of all the inhabitants 25%, are literate, then what percentage of females are literate? 
+Ans:
+Let's break this problem down step by step:
+
+60% of the inhabitants are males, so the number of males is 0.6 × 1000 = 600.
+The number of females is 1000 - 600 = 400.
+20% of the inhabitants are literate, so the total number of literates is 0.2 × 1000 = 200
+25% of all the inhabitants are literate males, so the number of literate males is 0.25 × 1000 = 250.
+Since there are 200 literates in total, and 250 literate males, the number of literate females is 200 - 250 = -50 (this is not possible, so we'll revisit this step later).
+Let's re-examine step 4. Since there are 600 males, 25% of them being literate means 0.25 × 600 = 150 literate males.
+Now, we know there are 200 literates in total, and 150 of them are males. So, the number of literate females is 200 - 150 = 50.
+To find the percentage of literate females, divide the number of literate females by the total number of females and multiply by 100: (50/400) × 100 = 12.5%.
+
+So, 12.5% of females in the town are literate.
